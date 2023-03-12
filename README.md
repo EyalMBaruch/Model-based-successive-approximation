@@ -10,10 +10,9 @@ Eyal Baruch and Izhak Bucher
 
 
 * [Paper](...)
-* [Template](https://github.com/...)
-* [example: trancendental equation](https://github.com...)
-* [example: duffing equation](https://github.com/...)
-
+* [Template](https://github.com/EyalMBaruch/Model-based-successive-approximation/template/main.m)
+* [example: trancendental equation](https://github.comEyalMBaruch/Model-based-successive-approximation/trancendental example/main_example1.m)
+* [example: duffing equation](https://github.com/EyalMBaruch/Model-based-successive-approximation/duffing equation example/main.m)
 
 Summary
 --------
