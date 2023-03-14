@@ -3,7 +3,7 @@
 
 
 
-[Model-based-successive-approximation](....) 
+[Model-based-successive-approximation](https://arxiv.org/abs/2303.06730) 
 =======
 Eyal Baruch and Izhak Bucher
 
